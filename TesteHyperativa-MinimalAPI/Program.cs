@@ -134,6 +134,17 @@ app.MapPost("/login", (LoginViewModel model) =>
     }
 });
 
+app.MapGet("/ConsultCard", (string creditCardNumber) =>
+{
+    using (var serviceScope = app.Services.CreateScope())
+    {
+        var services = serviceScope.ServiceProvider;
+
+        var creditCardService = services.GetRequiredService<ICreditCardService>();
+        return creditCardService.GetByCard(creditCardNumber);
+    }
+}).RequireAuthorization();
+
 app.MapPost("/CreditCardInclude", async (ClaimsPrincipal user, string creditCardNumber) =>
 {
     using (var serviceScope = app.Services.CreateScope())

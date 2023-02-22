@@ -12,5 +12,9 @@ namespace TesteHyperativa_Domain.Services
             _repository = repository;
         }
 
+        public Task<CreditCard> GetByCard(string cardNumber)
+        {
+            return _repository.GetByCard(cardNumber);
+        }
     }
 }
