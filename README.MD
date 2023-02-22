@@ -1,12 +1,12 @@
-Teste Hyperativa
+**Teste Hyperativa**
 
 Foi realizado o testes, com excessão do log e dos testes unitários e de integração, pois não houve tempo para isso.
 Porém acredito que o que fiz seja suficiente para uma avaliação das minhas skills.
-Contrui com minimal API, mas prefiri não colocar no docker nesse teste, execute no IISExpress por favor.
+Construi com minimal API, mas prefiri não colocar no docker nesse teste, execute no IISExpress por favor.
 Assumi que todo arquivo tem o formato do arquivo passado como exemplo.
 Não foi feita nenhuma validação de entrada de dados, pois não estava no requisito. E se tivesse que fazer, a complexidade poderia aumentar ainda mais, com decisões de arquitetura.
 
-Como executar
+**Como executar**
 
 1) Mude a string de conexao no appsettings, para uma base SQL SERVER:
 
