@@ -1,0 +1,17 @@
+C:\Projects\TesteHyperativa\TesteHyperativa-CrossCutting\bin\Debug\net6.0\TesteHyperativa-CrossCutting.deps.json
+C:\Projects\TesteHyperativa\TesteHyperativa-CrossCutting\bin\Debug\net6.0\TesteHyperativa-CrossCutting.dll
+C:\Projects\TesteHyperativa\TesteHyperativa-CrossCutting\bin\Debug\net6.0\TesteHyperativa-CrossCutting.pdb
+C:\Projects\TesteHyperativa\TesteHyperativa-CrossCutting\bin\Debug\net6.0\TesteHyperativa-Domain.dll
+C:\Projects\TesteHyperativa\TesteHyperativa-CrossCutting\bin\Debug\net6.0\TesteHyperativa-Repository.dll
+C:\Projects\TesteHyperativa\TesteHyperativa-CrossCutting\bin\Debug\net6.0\TesteHyperativa-Domain.pdb
+C:\Projects\TesteHyperativa\TesteHyperativa-CrossCutting\bin\Debug\net6.0\TesteHyperativa-Repository.pdb
+C:\Projects\TesteHyperativa\TesteHyperativa-CrossCutting\obj\Debug\net6.0\TesteHyperativa-CrossCutting.csproj.AssemblyReference.cache
+C:\Projects\TesteHyperativa\TesteHyperativa-CrossCutting\obj\Debug\net6.0\TesteHyperativa-CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TesteHyperativa\TesteHyperativa-CrossCutting\obj\Debug\net6.0\TesteHyperativa-CrossCutting.AssemblyInfoInputs.cache
+C:\Projects\TesteHyperativa\TesteHyperativa-CrossCutting\obj\Debug\net6.0\TesteHyperativa-CrossCutting.AssemblyInfo.cs
+C:\Projects\TesteHyperativa\TesteHyperativa-CrossCutting\obj\Debug\net6.0\TesteHyperativa-CrossCutting.csproj.CoreCompileInputs.cache
+C:\Projects\TesteHyperativa\TesteHyperativa-CrossCutting\obj\Debug\net6.0\TesteHyperativa-CrossCutting.csproj.CopyComplete
+C:\Projects\TesteHyperativa\TesteHyperativa-CrossCutting\obj\Debug\net6.0\TesteHyperativa-CrossCutting.dll
+C:\Projects\TesteHyperativa\TesteHyperativa-CrossCutting\obj\Debug\net6.0\refint\TesteHyperativa-CrossCutting.dll
+C:\Projects\TesteHyperativa\TesteHyperativa-CrossCutting\obj\Debug\net6.0\TesteHyperativa-CrossCutting.pdb
+C:\Projects\TesteHyperativa\TesteHyperativa-CrossCutting\obj\Debug\net6.0\ref\TesteHyperativa-CrossCutting.dll

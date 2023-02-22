@@ -1,0 +1,307 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\TesteHyperativa\\TesteHyperativa-MinimalAPI\\TesteHyperativa-MinimalAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\TesteHyperativa\\TesteHyperativa-CrossCutting\\TesteHyperativa-CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\TesteHyperativa\\TesteHyperativa-CrossCutting\\TesteHyperativa-CrossCutting.csproj",
+        "projectName": "TesteHyperativa-CrossCutting",
+        "projectPath": "C:\\Projects\\TesteHyperativa\\TesteHyperativa-CrossCutting\\TesteHyperativa-CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\edupo\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\TesteHyperativa\\TesteHyperativa-CrossCutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\edupo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Projects\\TesteHyperativa\\TesteHyperativa-Domain\\TesteHyperativa-Domain.csproj": {
+                "projectPath": "C:\\Projects\\TesteHyperativa\\TesteHyperativa-Domain\\TesteHyperativa-Domain.csproj"
+              },
+              "C:\\Projects\\TesteHyperativa\\TesteHyperativa-Repository\\TesteHyperativa-Repository.csproj": {
+                "projectPath": "C:\\Projects\\TesteHyperativa\\TesteHyperativa-Repository\\TesteHyperativa-Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\TesteHyperativa\\TesteHyperativa-Domain\\TesteHyperativa-Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\TesteHyperativa\\TesteHyperativa-Domain\\TesteHyperativa-Domain.csproj",
+        "projectName": "TesteHyperativa-Domain",
+        "projectPath": "C:\\Projects\\TesteHyperativa\\TesteHyperativa-Domain\\TesteHyperativa-Domain.csproj",
+        "packagesPath": "C:\\Users\\edupo\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\TesteHyperativa\\TesteHyperativa-Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\edupo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "XAct.Core.PCL": {
+              "target": "Package",
+              "version": "[0.0.5014, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\TesteHyperativa\\TesteHyperativa-MinimalAPI\\TesteHyperativa-MinimalAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\TesteHyperativa\\TesteHyperativa-MinimalAPI\\TesteHyperativa-MinimalAPI.csproj",
+        "projectName": "TesteHyperativa-MinimalAPI",
+        "projectPath": "C:\\Projects\\TesteHyperativa\\TesteHyperativa-MinimalAPI\\TesteHyperativa-MinimalAPI.csproj",
+        "packagesPath": "C:\\Users\\edupo\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\TesteHyperativa\\TesteHyperativa-MinimalAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\edupo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Projects\\TesteHyperativa\\TesteHyperativa-CrossCutting\\TesteHyperativa-CrossCutting.csproj": {
+                "projectPath": "C:\\Projects\\TesteHyperativa\\TesteHyperativa-CrossCutting\\TesteHyperativa-CrossCutting.csproj"
+              },
+              "C:\\Projects\\TesteHyperativa\\TesteHyperativa-Domain\\TesteHyperativa-Domain.csproj": {
+                "projectPath": "C:\\Projects\\TesteHyperativa\\TesteHyperativa-Domain\\TesteHyperativa-Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.14.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\TesteHyperativa\\TesteHyperativa-Repository\\TesteHyperativa-Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\TesteHyperativa\\TesteHyperativa-Repository\\TesteHyperativa-Repository.csproj",
+        "projectName": "TesteHyperativa-Repository",
+        "projectPath": "C:\\Projects\\TesteHyperativa\\TesteHyperativa-Repository\\TesteHyperativa-Repository.csproj",
+        "packagesPath": "C:\\Users\\edupo\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\TesteHyperativa\\TesteHyperativa-Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\edupo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Projects\\TesteHyperativa\\TesteHyperativa-Domain\\TesteHyperativa-Domain.csproj": {
+                "projectPath": "C:\\Projects\\TesteHyperativa\\TesteHyperativa-Domain\\TesteHyperativa-Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

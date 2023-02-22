@@ -1,0 +1,12 @@
+C:\Projects\CNAB-Importer-MinimalAPI\CNAB-Importer-Domain\bin\Debug\net6.0\CNAB-Importer-Domain.deps.json
+C:\Projects\CNAB-Importer-MinimalAPI\CNAB-Importer-Domain\bin\Debug\net6.0\CNAB-Importer-Domain.dll
+C:\Projects\CNAB-Importer-MinimalAPI\CNAB-Importer-Domain\bin\Debug\net6.0\CNAB-Importer-Domain.pdb
+C:\Projects\CNAB-Importer-MinimalAPI\CNAB-Importer-Domain\obj\Debug\net6.0\CNAB-Importer-Domain.csproj.AssemblyReference.cache
+C:\Projects\CNAB-Importer-MinimalAPI\CNAB-Importer-Domain\obj\Debug\net6.0\CNAB-Importer-Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CNAB-Importer-MinimalAPI\CNAB-Importer-Domain\obj\Debug\net6.0\CNAB-Importer-Domain.AssemblyInfoInputs.cache
+C:\Projects\CNAB-Importer-MinimalAPI\CNAB-Importer-Domain\obj\Debug\net6.0\CNAB-Importer-Domain.AssemblyInfo.cs
+C:\Projects\CNAB-Importer-MinimalAPI\CNAB-Importer-Domain\obj\Debug\net6.0\CNAB-Importer-Domain.csproj.CoreCompileInputs.cache
+C:\Projects\CNAB-Importer-MinimalAPI\CNAB-Importer-Domain\obj\Debug\net6.0\CNAB-Importer-Domain.dll
+C:\Projects\CNAB-Importer-MinimalAPI\CNAB-Importer-Domain\obj\Debug\net6.0\refint\CNAB-Importer-Domain.dll
+C:\Projects\CNAB-Importer-MinimalAPI\CNAB-Importer-Domain\obj\Debug\net6.0\CNAB-Importer-Domain.pdb
+C:\Projects\CNAB-Importer-MinimalAPI\CNAB-Importer-Domain\obj\Debug\net6.0\ref\CNAB-Importer-Domain.dll

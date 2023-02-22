@@ -1,0 +1,17 @@
+C:\Projects\TesteHyperativa\TesteHyperativa-Repository\bin\Debug\net6.0\TesteHyperativa-Repository.deps.json
+C:\Projects\TesteHyperativa\TesteHyperativa-Repository\bin\Debug\net6.0\TesteHyperativa-Repository.runtimeconfig.json
+C:\Projects\TesteHyperativa\TesteHyperativa-Repository\bin\Debug\net6.0\TesteHyperativa-Repository.dll
+C:\Projects\TesteHyperativa\TesteHyperativa-Repository\bin\Debug\net6.0\TesteHyperativa-Repository.pdb
+C:\Projects\TesteHyperativa\TesteHyperativa-Repository\bin\Debug\net6.0\TesteHyperativa-Domain.dll
+C:\Projects\TesteHyperativa\TesteHyperativa-Repository\bin\Debug\net6.0\TesteHyperativa-Domain.pdb
+C:\Projects\TesteHyperativa\TesteHyperativa-Repository\obj\Debug\net6.0\TesteHyperativa-Repository.csproj.AssemblyReference.cache
+C:\Projects\TesteHyperativa\TesteHyperativa-Repository\obj\Debug\net6.0\TesteHyperativa-Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TesteHyperativa\TesteHyperativa-Repository\obj\Debug\net6.0\TesteHyperativa-Repository.AssemblyInfoInputs.cache
+C:\Projects\TesteHyperativa\TesteHyperativa-Repository\obj\Debug\net6.0\TesteHyperativa-Repository.AssemblyInfo.cs
+C:\Projects\TesteHyperativa\TesteHyperativa-Repository\obj\Debug\net6.0\TesteHyperativa-Repository.csproj.CoreCompileInputs.cache
+C:\Projects\TesteHyperativa\TesteHyperativa-Repository\obj\Debug\net6.0\TesteHyperativa-Repository.csproj.CopyComplete
+C:\Projects\TesteHyperativa\TesteHyperativa-Repository\obj\Debug\net6.0\TesteHyperativa-Repository.dll
+C:\Projects\TesteHyperativa\TesteHyperativa-Repository\obj\Debug\net6.0\refint\TesteHyperativa-Repository.dll
+C:\Projects\TesteHyperativa\TesteHyperativa-Repository\obj\Debug\net6.0\TesteHyperativa-Repository.pdb
+C:\Projects\TesteHyperativa\TesteHyperativa-Repository\obj\Debug\net6.0\TesteHyperativa-Repository.genruntimeconfig.cache
+C:\Projects\TesteHyperativa\TesteHyperativa-Repository\obj\Debug\net6.0\ref\TesteHyperativa-Repository.dll

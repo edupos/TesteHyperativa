@@ -1,0 +1,17 @@
+C:\Projects\CNAB-Importer-MinimalAPI\CNAB-Importer-Repository\bin\Debug\net6.0\CNAB-Importer-Repository.deps.json
+C:\Projects\CNAB-Importer-MinimalAPI\CNAB-Importer-Repository\bin\Debug\net6.0\CNAB-Importer-Repository.runtimeconfig.json
+C:\Projects\CNAB-Importer-MinimalAPI\CNAB-Importer-Repository\bin\Debug\net6.0\CNAB-Importer-Repository.dll
+C:\Projects\CNAB-Importer-MinimalAPI\CNAB-Importer-Repository\bin\Debug\net6.0\CNAB-Importer-Repository.pdb
+C:\Projects\CNAB-Importer-MinimalAPI\CNAB-Importer-Repository\bin\Debug\net6.0\CNAB-Importer-Domain.dll
+C:\Projects\CNAB-Importer-MinimalAPI\CNAB-Importer-Repository\bin\Debug\net6.0\CNAB-Importer-Domain.pdb
+C:\Projects\CNAB-Importer-MinimalAPI\CNAB-Importer-Repository\obj\Debug\net6.0\CNAB-Importer-Repository.csproj.AssemblyReference.cache
+C:\Projects\CNAB-Importer-MinimalAPI\CNAB-Importer-Repository\obj\Debug\net6.0\CNAB-Importer-Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CNAB-Importer-MinimalAPI\CNAB-Importer-Repository\obj\Debug\net6.0\CNAB-Importer-Repository.AssemblyInfoInputs.cache
+C:\Projects\CNAB-Importer-MinimalAPI\CNAB-Importer-Repository\obj\Debug\net6.0\CNAB-Importer-Repository.AssemblyInfo.cs
+C:\Projects\CNAB-Importer-MinimalAPI\CNAB-Importer-Repository\obj\Debug\net6.0\CNAB-Importer-Repository.csproj.CoreCompileInputs.cache
+C:\Projects\CNAB-Importer-MinimalAPI\CNAB-Importer-Repository\obj\Debug\net6.0\CNAB-Importer-Repository.csproj.CopyComplete
+C:\Projects\CNAB-Importer-MinimalAPI\CNAB-Importer-Repository\obj\Debug\net6.0\CNAB-Importer-Repository.dll
+C:\Projects\CNAB-Importer-MinimalAPI\CNAB-Importer-Repository\obj\Debug\net6.0\refint\CNAB-Importer-Repository.dll
+C:\Projects\CNAB-Importer-MinimalAPI\CNAB-Importer-Repository\obj\Debug\net6.0\CNAB-Importer-Repository.pdb
+C:\Projects\CNAB-Importer-MinimalAPI\CNAB-Importer-Repository\obj\Debug\net6.0\CNAB-Importer-Repository.genruntimeconfig.cache
+C:\Projects\CNAB-Importer-MinimalAPI\CNAB-Importer-Repository\obj\Debug\net6.0\ref\CNAB-Importer-Repository.dll

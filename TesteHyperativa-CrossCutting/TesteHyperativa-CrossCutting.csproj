@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>TesteHyperativa_CrossCutting</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TesteHyperativa-Domain\TesteHyperativa-Domain.csproj" />
+    <ProjectReference Include="..\TesteHyperativa-Repository\TesteHyperativa-Repository.csproj" />
+  </ItemGroup>
+
+</Project>
